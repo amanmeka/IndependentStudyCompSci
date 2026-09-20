@@ -1,0 +1,21 @@
+{
+  "latex-workshop.latex.autoBuild.run": "never",
+
+  "files.exclude": {
+    "**/*.aux": true,
+    "**/*.log": true,
+    "**/*.toc": true,
+    "**/*.lof": true,
+    "**/*.lot": true,
+    "**/*.out": true,
+    "**/*.bbl": true,
+    "**/*.blg": true,
+    "**/*.bcf": true,
+    "**/*.xml": true,
+    "**/*.synctex.gz": true,
+    "**/*.fdb_latexmk": true,
+    "**/*.fls": true
+  },
+  
+  "latex-workshop.latex.autoBuild.run": "onSave"
+}
