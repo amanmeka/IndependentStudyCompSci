@@ -12,3 +12,6 @@
 *.blg
 *.bcf
 *.xml
+
+# macOS metadata
+.DS_Store
