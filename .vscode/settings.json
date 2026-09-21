@@ -1,5 +1,5 @@
 {
-  "latex-workshop.latex.autoBuild.run": "never",
+  "latex-workshop.latex.autoBuild.run": "onSave",
 
   "files.exclude": {
     "**/*.aux": true,
@@ -15,7 +15,5 @@
     "**/*.synctex.gz": true,
     "**/*.fdb_latexmk": true,
     "**/*.fls": true
-  },
-  
-  "latex-workshop.latex.autoBuild.run": "onSave"
+  }
 }
